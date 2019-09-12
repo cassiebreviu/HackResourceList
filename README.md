@@ -36,6 +36,8 @@
 [Create and Public LUIS models (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/create-and-publish-a-luis-model/?WT.mc_id=hackmit-preevent-cassieb)
 </br>
 [Create Bots with LUIS (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/?WT.mc_id=hackmit-preevent-cassieb)
+</br>
+[LUIS.AI Home](https://luis.ai/home)
 
 ## Other Helpful links
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=hackmit-preevent-cassieb)
