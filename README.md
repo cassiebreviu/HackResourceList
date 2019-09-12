@@ -41,6 +41,6 @@
 </br>
 [Deploy a Website with Azure (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/?WT.mc_id=hackmit-preevent-cassieb)
 </br>
-[Hack with Azure](aka.ms/HackWithAzure)
+[Hack with Azure](https://github.com/Microsoft/computerscience/blob/master/Events%20and%20Hacks/Student%20Hacks/hackwithazure.md)
 </br>
 [What is AI, ML and DL doc](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-deep-learning-vs-machine-learning/?WT.mc_id=hackmit-preevent-cassieb)
