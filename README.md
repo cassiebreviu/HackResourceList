@@ -2,11 +2,13 @@
 
 ## Cognitive Services
 
-Demo Site:
+### Demo Site:
 [Cognitive Services Directory](https://azure.microsoft.com/en-us/services/cognitive-services/directory/?WT.mc_id=hackmit-preevent-cassieb)
 </br>
-Learn Modules:
+### Learn Modules:
 [Classify Images with Custom Vision](https://docs.microsoft.com/en-us/learn/paths/classify-images-with-vision-services/?WT.mc_id=hackmit-preevent-cassieb)
+</br>
+[Translate Speech with Speech Services](https://docs.microsoft.com/en-us/learn/paths/translate-speech-with-speech-services/?WT.mc_id=hackmit-preevent-cassieb)
 </br>
 ## Other Helpful links
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=hackmit-preevent-cassieb)
