@@ -25,6 +25,7 @@
 [Bot Service Features Overview](https://azure.microsoft.com/en-us/services/bot-service/?WT.mc_id=hackmit-preevent-cassieb)
 </br>
 [Create Bots with Azure Bot Service (MS Learn)](https://docs.microsoft.com/en-us/learn/paths/create-bots-with-the-azure-bot-service/?WT.mc_id=hackmit-preevent-cassieb)
+</br>
 [Build FAQ Chat Bot with QnA Maker (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/build-a-faq-chat-bot-with-qna-maker-and-azure-bot-service/?WT.mc_id=hackmit-preevent-cassieb)
 
 ## Language Understanding (LUIS)
