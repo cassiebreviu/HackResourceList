@@ -43,4 +43,6 @@
 </br>
 [Hack with Azure](https://github.com/Microsoft/computerscience/blob/master/Events%20and%20Hacks/Student%20Hacks/hackwithazure.md)
 </br>
+[Cognitive Service Face API JavaScript Example Doc](https://docs.microsoft.com/en-us/azure/cognitive-services/face/quickstarts/javascript)
+</br>
 [What is AI, ML and DL doc](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-deep-learning-vs-machine-learning/?WT.mc_id=hackmit-preevent-cassieb)
