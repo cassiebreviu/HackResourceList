@@ -1,4 +1,4 @@
-# Hack MIT Resources
+# Hack Resources
 
 [Create free Azure Student Account!](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=hackmit-preevent-cassieb)
 
