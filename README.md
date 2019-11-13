@@ -4,11 +4,15 @@
 
 ## Mixed Reality
 [Get Started with Mixed Reality](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100/?WT.mc_id=hack-talk-cassie)
+</br>
 [AzureSpatialAnchors-NotesAR](https://github.com/julianparismorgan/AzureSpatialAnchors-NotesAR/?WT.mc_id=hack-talk-cassie)
+</br>
 
 ## Web VR
 [BabylonJS Playground](https://www.babylonjs-playground.com/)
+</br>
 [Build Exploding Spheres Game Workshop](https://github.com/cassieview/student-hack-resources/tree/master/SpatialWorkshops/WebVrGameTypeScript)
+</br>
 
 
 ## Cognitive Services
