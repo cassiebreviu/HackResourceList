@@ -2,6 +2,15 @@
 
 [Create free Azure Student Account!](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=hack-talk-cassieb)
 
+## Mixed Reality
+[Get Started with Mixed Reality](https://docs.microsoft.com/en-us/windows/mixed-reality/holograms-100/?WT.mc_id=hack-talk-cassie)
+[AzureSpatialAnchors-NotesAR](https://github.com/julianparismorgan/AzureSpatialAnchors-NotesAR/?WT.mc_id=hack-talk-cassie)
+
+## Web VR
+[BabylonJS Playground](https://www.babylonjs-playground.com/)
+[Build Exploding Spheres Game Workshop](https://github.com/cassieview/student-hack-resources/tree/master/SpatialWorkshops/WebVrGameTypeScript)
+
+
 ## Cognitive Services
 
 [Cognitive Services Directory](https://azure.microsoft.com/en-us/services/cognitive-services/directory/?WT.mc_id=hack-talk-cassieb)
